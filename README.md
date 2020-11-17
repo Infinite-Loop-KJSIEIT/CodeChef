@@ -1,2 +1,2 @@
 # CodeChef
- 
+> CodeChef is a competitive programming community of programmers from across the globe. CodeChef was started as an educational initiative in the year 2009 by Directi, an Indian software company. This repository consists of problem statements from CodeChef for the students of Infinite Loop to learn competitive programmimg. If you have any suggestions reach us at [https://infiniteloop.club/]
